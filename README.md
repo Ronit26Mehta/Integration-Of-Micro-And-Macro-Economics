@@ -19,6 +19,20 @@ This project demonstrates the integration of macroeconomic and microeconomic dat
 8. [Acknowledgments](#acknowledgments)
 9. [References](#references)
 
+## system architecture:
+   1. component diagram:
+
+   ![alt text](image.png)
+
+   2. activity diagram:
+
+   ![alt text](image-1.png)
+
+   3. sequence diagram:
+   
+   ![alt text](image-2.png)
+
+   
 ## Project Objective
 
 The primary objective of this project is to analyze the impact of macroeconomic indicators on microeconomic sector performance and vice versa. By integrating datasets such as national economic indicators and sector-specific performance metrics, the project seeks to identify correlations and causal relationships that can enhance predictive models for economic changes.
